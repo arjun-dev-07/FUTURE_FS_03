@@ -83,12 +83,9 @@ Through this project, I learned:
 * Website deployment using Netlify
 
 ## Live Demo
+
 https://gregarious-empanada-6a9f15.netlify.app/
-Add your Netlify URL here
 
-Example:
-
-https://your-gym-website.netlify.app
 
 ## GitHub Repository
 
